@@ -1,0 +1,20 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "Demo aprendiendo Git desde 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "Demo",
+    "Aprendiendo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  }
+}
